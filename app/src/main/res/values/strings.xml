@@ -1,3 +1,20 @@
 <resources>
     <string name="app_name">DClassicsBooks</string>
+
+    <!-- Splash Screen -->
+    <string name="splash_tagline">Rediscover the Classics</string>
+
+    <!-- Auth Screen -->
+    <string name="welcome_title">Welcome</string>
+    <string name="welcome_subtitle">Your gateway to timeless literature</string>
+    <string name="hint_email">Email address</string>
+    <string name="hint_username">Username</string>
+    <string name="hint_password">Password</string>
+    <string name="btn_login">Sign In</string>
+    <string name="btn_register">Create Account</string>
+    <string name="switch_to_register">Don\'t have an account? <b>Sign Up</b></string>
+    <string name="switch_to_login">Already have an account? <b>Sign In</b></string>
+    <string name="forgot_password">Forgot password?</string>
+    <string name="or_divider">OR</string>
+    <string name="btn_guest">Continue as Guest</string>
 </resources>
